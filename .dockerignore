@@ -1,0 +1,6 @@
+.env
+.git
+*.pdf
+cookies.txt
+__pycache__
+.pytest_cache

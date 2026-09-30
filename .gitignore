@@ -1,0 +1,12 @@
+.env
+cookies.txt
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*.pdf
+*.mp4
+*.jpg.bak
+
+# Локальные скрипты деплоя/отладки VPS (могут содержать секреты)
+/*.py
